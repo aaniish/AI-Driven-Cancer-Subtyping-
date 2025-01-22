@@ -2,6 +2,8 @@
 
 This project explores the use of advanced clustering and machine learning techniques to identify and interpret molecular subtypes of cancer, specifically breast cancer. By leveraging unsupervised and supervised learning models, we aim to uncover key molecular patterns and improve cancer subtype classification.
 
+**Note:** This project was completed as part of a group effort during my study abroad program at the Technical University of Denmark (DTU).
+
 ## Objectives
 1. **Investigate molecular subtyping**: Identify novel subtypes and refine existing classifications.  
 2. **Enhance understanding**: Utilize data-driven methods to analyze gene expression patterns and their implications for treatment strategies.
@@ -21,3 +23,5 @@ This project explores the use of advanced clustering and machine learning techni
 ## Future Directions
 - Explore non-linear methods like Variational Autoencoders (VAEs) and spectral clustering for improved subtype identification.  
 - Incorporate domain-specific knowledge to refine feature selection.
+
+  
